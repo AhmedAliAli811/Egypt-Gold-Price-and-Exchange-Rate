@@ -1,4 +1,4 @@
-# Egypt-Gold-Price-and-Exchange-Rate
+# Egypt Gold Price and Exchange Rate for Dollar and Euro
 
 
 This project is an exploration of the relationship between gold prices and exchange rates for USD and EUR against the Egyptian Pound, using principles from the book *Storytelling with Data* to craft clear and insightful visualizations. I retrieved real-time gold price data through web scraping and sourced exchange rates from the Central Bank of Egypt. 
